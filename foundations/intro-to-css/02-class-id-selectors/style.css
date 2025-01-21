@@ -1,6 +1,10 @@
-p {
-    background-color: lightpink;
+.odd {
+    background-color: rgb(255, 182, 193);
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.new-font-size {
+    font-size: 24px;
 }
 
 div {
